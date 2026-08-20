@@ -6,7 +6,7 @@ import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 // let siteUrl = 'http://api.maiyoux.com:81/mf/';
 
-let siteUrl = 'http://api.maiyoux.com:81/mf/';
+let siteUrl = 'https://gh-proxy.com/https://raw.githubusercontent.com/homezf/zhubo/refs/heads/main/';
 
 let siteKey = '';
 let siteType = 0;
