@@ -1,5 +1,0 @@
-{
-"zhubo": [
-{ "address":"http://live-pull-zego.ikstatic.cn/inkemain/1787206010313792.flv?stream_id=1787206010313792&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikSlowRate=0.9&wsSecret=b9f59258f93fecb3541d02786ef04b3f&wsABStime=6a87eafa","img":"http://img.ikstatic.cn/MTcyMjM0OTE3ODgwNiM2MjkjanBn.jpg","title":"\u671F\u5F85"}
-]
-}
