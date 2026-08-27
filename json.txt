@@ -1,7 +1,7 @@
 {
 "pingtai": [
-{ "address":"json电视直播.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"电视直播"},
-{ "address":"json三级.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"000"}
+{ "address":"json电视直播.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"电视直播"}
+
 
 ]
 }
